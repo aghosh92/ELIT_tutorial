@@ -12,5 +12,10 @@ In particualr, the notebooks address the following:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/ELIT_tutorial/blob/main/MD_data_labelled.ipynb)
 
 
-(3) How to adapt ELIT approach to begin with training ensemble models using the simulated data, followed by using these models as baseline to adapt to experimental data. Here the goal is to find the carbon and impurity atoms present in the STEM image of graphene.
+(3) How to utilize ELIT approach to begin with training ensemble models using the simulated data, followed by using these models as baseline to adapt to experimental data. Here the goal is to find the carbon and impurity atoms present in the STEM image of graphene.
+
+Parent Notebook:
+
+
+Adapted to the latest AtomAI version:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/ELIT_tutorial/blob/main/ELIT_tutorial.ipynb)
