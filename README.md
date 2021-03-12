@@ -5,7 +5,7 @@ The goal of the tutorial is to give a hands-on experience of introduction to ima
 In particualr, the notebooks address the following:
 
 (1) How to apply a UNet-like neural network for semantic segmentation of atomic images and to perform; ii) how to apply multivariate statistical analysis to the semantically-segmented output.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aghosh92/ELIT_tutorial/blob/main/01b_SemanticSegmentation_MZ.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/aghosh92/ELIT_tutorial/blob/main/01b_SemanticSegmentation_MZ.ipynb)
 
 
 (2) How to construct a training dataset from ab-initio molecular dynamics (MD) data for a supercell of graphene atoms.
